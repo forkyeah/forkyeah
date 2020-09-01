@@ -1,6 +1,6 @@
 # Roasted Cauliflower with Pistachio Dressing
 
-Total time: <= 30 min.
+Total time: <= 60 min.
 
 Active time: ~10 min.
 
@@ -9,6 +9,12 @@ Skill level: Beginner
 ## Equipment
 
 * mixing bowl, large
+
+* spatula
+
+* measuring cups
+
+* measuring spoons
 
 * skillet
 
@@ -25,7 +31,7 @@ Skill level: Beginner
 
 ## Instructions 
 
-1. Preheat oven to 375F.
+1. Preheat oven to 400F.
 
 2. Break cauliflower into florets. Add to mixing bowl.
 
@@ -41,7 +47,7 @@ Skill level: Beginner
 
 5. Toss ingredients in mixing bowl. 
 
-6. Spread mixture into a baking dish. Roast in oven for 15 to 20 minutes. 
+6. Spread mixture into a baking dish. Roast in oven for 30 minutes. 
 
 7. While the cauliflower mixture is cooking, heat skillet over medium-high heat. Toast pistachios in pan until golden brown, shaking often.
 
